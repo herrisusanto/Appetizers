@@ -21,6 +21,7 @@ struct OrderView: View {
                         }
                         .onDelete(perform: order.delete)
                     }
+                    .listRowSeparatorTint(.brandPrimary)
                     .listStyle(PlainListStyle())
                     
                     Button {
