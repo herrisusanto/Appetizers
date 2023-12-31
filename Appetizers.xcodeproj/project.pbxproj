@@ -30,6 +30,7 @@
 		0F1F249F2B3DBFCD0067F28D /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1F249E2B3DBFCC0067F28D /* AppetizerListViewModel.swift */; };
 		0F1F24A12B3DC1470067F28D /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1F24A02B3DC1470067F28D /* Alert.swift */; };
 		0F1F24A52B3E67880067F28D /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1F24A42B3E67880067F28D /* LoadingView.swift */; };
+		0F95A7622B417A9B00E214C4 /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F95A7612B417A9B00E214C4 /* Date+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		0F1F249E2B3DBFCC0067F28D /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
 		0F1F24A02B3DC1470067F28D /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		0F1F24A42B3E67880067F28D /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		0F95A7612B417A9B00E214C4 /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 			isa = PBXGroup;
 			children = (
 				0F0857BD2B3ECFD6007CD8CE /* String+Ext.swift */,
+				0F95A7612B417A9B00E214C4 /* Date+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				0F1F24832B3D5AE40067F28D /* AppetizersApp.swift in Sources */,
 				0F1F24A12B3DC1470067F28D /* Alert.swift in Sources */,
 				0F1F24912B3D5CCD0067F28D /* AppetizerListView.swift in Sources */,
+				0F95A7622B417A9B00E214C4 /* Date+Ext.swift in Sources */,
 				0F1F24952B3D5CE00067F28D /* OrderView.swift in Sources */,
 				0F0857BB2B3ECE15007CD8CE /* AccountViewModel.swift in Sources */,
 				0F0857B92B3EB5C8007CD8CE /* XDismissButton.swift in Sources */,
